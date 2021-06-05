@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "l1eraTLd3ZkM9729jv0YcVp9nVheEPATCRyxspX7OPWoG6tDXnSg7HdwFggj5b0Pj3YZFQI5QXHpywcbYRHGiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
@@ -30,4 +31,11 @@
       ]
     }
   ]
+=======
+  "dgSpecHash": "av5vcXpNIO3qLpon+YG8UjmMLCgu02eda2zPs5LUk4IWgGn7YhSoCCFZrRVJPE/Rfau6YASLEG7B5i49r9rloQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itsma\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> Stashed changes
 }

@@ -5,6 +5,7 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+<<<<<<< Updated upstream
   <ItemGroup>
     <COMReference Include="Accessibility">
       <WrapperTool>tlbimp</WrapperTool>
@@ -22,4 +23,6 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
+=======
+>>>>>>> Stashed changes
 </Project>

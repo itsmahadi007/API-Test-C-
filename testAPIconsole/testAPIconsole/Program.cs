@@ -1,11 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Net;
-using System.Net.Http;
 using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
-using System.Web.Providers.Entities;
+using Newtonsoft.Json;
 
 
 namespace testAPIconsole
@@ -26,7 +24,7 @@ namespace testAPIconsole
                 name = "Mahadi Hassan",
                 email = "mh@gmail.com"
             };
-            string json = JsonSerializer.Serialize(user);
+            string json = JsonConvert.SerializeObject(user);
             byte[] byteArray = Encoding.UTF8.GetBytes(json);
 
             request.ContentType = "application/json";
@@ -64,6 +62,23 @@ namespace testAPIconsole
             }
 
 
+            List<testdb> testsTestdbs = JsonConvert.DeserializeObject<List<testdb>>(streamResult);
+            if (testsTestdbs == null) return " ";
+            foreach (dynamic questions in testsTestdbs)
+            {
+                Console.WriteLine(questions.id + " " + questions.name + " " + questions.email);
+            }
+
+            //dynamic myObject = JValue.Parse(streamResult);
+
+            //Console.WriteLine(myObject[3].id + " " + myObject[3].name + " " + myObject[3].email);
+
+            // foreach (dynamic questions in myObject)
+            // {
+            //     Console.WriteLine(questions.id + " " + questions.name +" "+questions.email);
+            // }
+
+
             // using var webResponse = request.GetResponse();
             // using var webStream = webResponse.GetResponseStream();
             //
@@ -71,7 +86,7 @@ namespace testAPIconsole
             // var data = reader.ReadToEnd();
 
             //Console.WriteLine(data);
-            return streamResult;
+            return " ";
         }
 
 
@@ -90,5 +105,5 @@ namespace testAPIconsole
     {
         public string name { get; set; }
         public string email { get; set; }
-        }
+    }
 }

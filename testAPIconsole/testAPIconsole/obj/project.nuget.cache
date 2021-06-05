@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oFxCEsKDcU7N7c8+FjB/IHM2VbllVme108fUwhbDS6CWk5hkHhCjlvxOFQnFc0WcyknfSGsBCGeD4jFHgmiguA==",
+  "dgSpecHash": "l1eraTLd3ZkM9729jv0YcVp9nVheEPATCRyxspX7OPWoG6tDXnSg7HdwFggj5b0Pj3YZFQI5QXHpywcbYRHGiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\itsma\\source\\repos\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
+  "projectFilePath": "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\itsma\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
-    "C:\\Users\\itsma\\.nuget\\packages\\microsoft.aspnet.providers.core\\2.0.0\\microsoft.aspnet.providers.core.2.0.0.nupkg.sha512"
+    "C:\\Users\\Mahadi\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mahadi\\.nuget\\packages\\microsoft.aspnet.providers.core\\2.0.0\\microsoft.aspnet.providers.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mahadi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": [
     {

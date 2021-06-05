@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itsma\\source\\repos\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj": {}
+    "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itsma\\source\\repos\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj": {
+    "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itsma\\source\\repos\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
+        "projectUniqueName": "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
         "projectName": "testAPIconsole",
-        "projectPath": "C:\\Users\\itsma\\source\\repos\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
-        "packagesPath": "C:\\Users\\itsma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itsma\\source\\repos\\testAPIconsole\\testAPIconsole\\obj\\",
+        "projectPath": "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
+        "packagesPath": "C:\\Users\\Mahadi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\itsma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Mahadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,6 +43,10 @@
             "Microsoft.AspNet.Providers.Core": {
               "target": "Package",
               "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

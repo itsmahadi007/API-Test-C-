@@ -62,12 +62,16 @@ namespace testAPIconsole
             }
 
 
-            List<testdb> testsTestdbs = JsonConvert.DeserializeObject<List<testdb>>(streamResult);
+            List<testdb.testingdb> testsTestdbs = JsonConvert.DeserializeObject<List<testdb.testingdb>>(streamResult);
             if (testsTestdbs == null) return " ";
             foreach (dynamic questions in testsTestdbs)
             {
                 Console.WriteLine(questions.id + " " + questions.name + " " + questions.email);
             }
+
+            var testsize = testsTestdbs.Count;
+
+            Console.WriteLine(testsize);
 
             //dynamic myObject = JValue.Parse(streamResult);
 

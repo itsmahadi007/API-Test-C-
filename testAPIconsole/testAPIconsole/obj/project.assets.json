@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< Updated upstream
     "net5.0": {
       "EntityFramework/6.0.0": {
         "type": "package",
@@ -108,8 +109,13 @@
         "packageIcon.png"
       ]
     }
+=======
+    "net5.0": {}
+>>>>>>> Stashed changes
   },
+  "libraries": {},
   "projectFileDependencyGroups": {
+<<<<<<< Updated upstream
     "net5.0": [
       "Microsoft.AspNet.Providers.Core >= 2.0.0",
       "Newtonsoft.Json >= 13.0.1"
@@ -117,10 +123,17 @@
   },
   "packageFolders": {
     "C:\\Users\\Mahadi\\.nuget\\packages\\": {}
+=======
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\itsma\\.nuget\\packages\\": {}
+>>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
       "projectName": "testAPIconsole",
       "projectPath": "C:\\Users\\Mahadi\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
@@ -129,6 +142,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\itsma\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
+      "projectName": "testAPIconsole",
+      "projectPath": "C:\\Users\\itsma\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\testAPIconsole.csproj",
+      "packagesPath": "C:\\Users\\itsma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\itsma\\Documents\\Playground\\API-Test-C-\\testAPIconsole\\testAPIconsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\itsma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -153,6 +176,7 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+<<<<<<< Updated upstream
         "dependencies": {
           "Microsoft.AspNet.Providers.Core": {
             "target": "Package",
@@ -163,6 +187,8 @@
             "version": "[13.0.1, )"
           }
         },
+=======
+>>>>>>> Stashed changes
         "imports": [
           "net461",
           "net462",
@@ -181,27 +207,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'EntityFramework 6.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
-      "libraryId": "EntityFramework",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Providers.Core 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Microsoft.AspNet.Providers.Core",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

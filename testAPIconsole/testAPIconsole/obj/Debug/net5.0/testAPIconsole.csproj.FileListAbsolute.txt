@@ -18,6 +18,7 @@ C:\Users\itsma\source\repos\testAPIconsole\testAPIconsole\bin\Debug\net5.0\Entit
 C:\Users\itsma\source\repos\testAPIconsole\testAPIconsole\bin\Debug\net5.0\EntityFramework.dll
 C:\Users\itsma\source\repos\testAPIconsole\testAPIconsole\bin\Debug\net5.0\System.Web.Providers.dll
 C:\Users\itsma\source\repos\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.csproj.CopyComplete
+<<<<<<< Updated upstream
 C:\Users\Mahadi\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.exe
 C:\Users\Mahadi\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.deps.json
 C:\Users\Mahadi\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.runtimeconfig.json
@@ -41,3 +42,21 @@ C:\Users\Mahadi\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\o
 C:\Users\Mahadi\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Mahadi\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\Interop.Accessibility.dll
 C:\Users\Mahadi\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.csproj.ResolveComReference.cache
+=======
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.exe
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.deps.json
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.runtimeconfig.json
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.runtimeconfig.dev.json
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.dll
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\ref\testAPIconsole.dll
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\bin\Debug\net5.0\testAPIconsole.pdb
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.csproj.AssemblyReference.cache
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.AssemblyInfoInputs.cache
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.AssemblyInfo.cs
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.csproj.CoreCompileInputs.cache
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.dll
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\ref\testAPIconsole.dll
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.pdb
+C:\Users\itsma\Documents\Playground\API-Test-C-\testAPIconsole\testAPIconsole\obj\Debug\net5.0\testAPIconsole.genruntimeconfig.cache
+>>>>>>> Stashed changes

@@ -12,8 +12,7 @@ namespace testAPIconsole
     {
         public static string webPostMethod(string URL)
         {
-            string name = "mahadi Hassan", email = "mahadi@gmail.com";
-            string postData = "name=" + name + "&email=" + email;
+            
 
 
             WebRequest request = WebRequest.Create(URL);
@@ -22,7 +21,7 @@ namespace testAPIconsole
             Post user = new Post
             {
                 name = "Mahadi Hassan",
-                email = "mh@gmail.com"
+                number = null
             };
             string json = JsonConvert.SerializeObject(user);
             byte[] byteArray = Encoding.UTF8.GetBytes(json);
@@ -108,6 +107,6 @@ namespace testAPIconsole
     public class Post
     {
         public string name { get; set; }
-        public string email { get; set; }
+        public int? number { get; set; }
     }
 }
